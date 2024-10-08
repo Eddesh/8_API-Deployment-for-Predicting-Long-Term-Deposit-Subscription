@@ -38,12 +38,12 @@ The dataset used in this project contains various attributes related to bank cus
 
 └── README.md            # Project documentation
 
-Testing
+## Testing
 The deployment was tested with three cases, as outlined below:
 1. Test Case 1: Predicts "no" for a single customer instance.
 2. Test Case 2: Predicts "yes" for a different customer, which matches the actual label.
 3. Test Case 3: Another "yes" prediction, successfully matching the actual label.
 These tests confirm that the model performs well in identifying customers likely to subscribe or not. Please refer to Usecase_ScreenShot_and_Explanation.pdf for detailed explanations and screenshots of each test case.
 
-Author
+## Author
 Davin Edbert Santoso Halim
